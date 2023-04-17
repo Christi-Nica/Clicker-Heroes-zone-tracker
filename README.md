@@ -12,4 +12,4 @@ Date	              Name	      Categories	Image	  Zones
 3)Open run.bat to start saving.
 
 DO NOT save data with the excel open, might cause the file to become corrupted.	
- 
+DO NOT close the cmd file while working.
