@@ -6,7 +6,7 @@ HOW TO USE:
 1)Open Clicker.xlsx
 
 2)Make sure that every day you are going to track for every player is like this:                                
-Date	              Name	      Categories	Image	  Zones
+Date	              Name	      Categories	Image	  Zones                                 
 202x-x-x 00:00:00	  Member_name	Clan_name	  Color
 
 3)Open run.bat to start saving.
